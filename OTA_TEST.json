@@ -2,7 +2,7 @@
     "data": {
         "update": {
             "version": 1.01,
-            "updateFile": "https://guardianweb.com.br/firmware/LEVEL-METER/LEVEL-METER.bin",
+            "updateFile": "https://github.com/Matheus-Korth/OTA-TEST/raw/main/ESP32_OH-main.bin",
             "forced": false,
             "configuration": {
                 "confA": true,
